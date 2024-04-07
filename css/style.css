@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Reddit+Mono:wght@200..900&display=swap');
+
+/*CSS da página inicial*/
+body{
+    background-color: rgb(26, 25, 25);
+}
+
+.box1{
+    margin-right: 50px;
+    float: left;
+    width: 50%;
+    height: auto;
+    font-family:"Reddit Mono", monospace;
+    font-weight: 500;
+    color: rgb(227, 10, 93);
+}
+
+.box2{
+    float: left;
+    width: 40%;
+    height: auto;
+    font-family:"Reddit Mono", monospace;
+    font-weight: 500;
+    color: rgb(227, 10, 93);
+}
+
+a{
+    text-decoration: none;
+}
+a:link {
+    color: rgb(230, 221, 230);
+}
+a:visited {
+    color: rgb(56, 52, 54);
+}
